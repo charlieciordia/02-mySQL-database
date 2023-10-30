@@ -45,24 +45,31 @@ Films was the main table, which had a n:m connection with actors. The rest of th
 **3.Queries**
 
 1. All the drama films.
+
 ![q1](https://github.com/charlieciordia/02-mySQL-database/blob/main/img/q1.png)
 
 2. Actors and actresses with most appearances in horror movies.
+
 ![q2](https://github.com/charlieciordia/02-mySQL-database/blob/main/img/q2.png)
 
 3. All actors per film.
+
 ![q3](https://github.com/charlieciordia/02-mySQL-database/blob/main/img/q3.png)
 
 4. Ranking of actors with appearances by genre.
+
 ![q4](https://github.com/charlieciordia/02-mySQL-database/blob/main/img/q4.png)
 
 5. Actors with most appearances by genre.
+
 ![q5](https://github.com/charlieciordia/02-mySQL-database/blob/main/img/q5.png)
 
 6. Number of films by genre and shop in the inventory.
+
 ![q6](https://github.com/charlieciordia/02-mySQL-database/blob/main/img/q6.png)
 
 7. Number of rental by retailer and films.
+
 ![q7](https://github.com/charlieciordia/02-mySQL-database/blob/main/img/q7.png)
 
 
